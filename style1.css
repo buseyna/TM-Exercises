@@ -1,0 +1,42 @@
+img {
+
+    width: 90px;
+    
+    height: 90px;
+    
+    float: left;
+    
+    }
+    
+    #idCard { 
+ 
+        font-family: 'Abril Fatface', cursive;
+     margin:auto;   
+    
+    border: 5px solid black;
+    
+    height: 12em;
+    width: 20em;
+    background-color:#ffcdd2;
+    border-radius: 12px;
+    }
+    body{
+        background-color:#bbdefb;
+        text-align: center;
+        font-family: 'Abril Fatface', cursive;
+    }
+   
+    #button {
+        font-family: 'Abril Fatface', cursive;
+        background-color:white;
+        border: none;
+        color: rgba(5, 5, 5, 0.904);
+        padding: 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin:12px 2px;
+        cursor: pointer;
+        border-radius: 14px;
+      }
